@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "517234817899",
+    "firebase_url": "https://begochat.firebaseio.com",
+    "project_id": "begochat",
+    "storage_bucket": "begochat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:517234817899:android:9a5228890f57bdf3bcaa2e",
+        "android_client_info": {
+          "package_name": "bego.chat.bagory.chat_application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "517234817899-fprh2tmhos6cg322o370s6p4f4lru0g7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA83GCBuoThnGlTqpvaVS71v0yj4jQ2_6k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "517234817899-fprh2tmhos6cg322o370s6p4f4lru0g7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
